@@ -1,0 +1,113 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-ko\\values-ko.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\7eb100c7c44fb1a339b0e63c858a9462\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,153,260",
+                        "endColumns": "50,46,106,71",
+                        "endOffsets": "101,148,255,327"
+                    },
+                    "to": {
+                        "startLines": "118,119,120,121",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "9285,9336,9383,9490",
+                        "endColumns": "50,46,106,71",
+                        "endOffsets": "9331,9378,9485,9557"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.0.1.aar\\8acb42f68a227a9790a32f5d7c4b0b4d\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "179",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "102",
+                        "startColumns": "4",
+                        "startOffsets": "7256",
+                        "endColumns": "179",
+                        "endOffsets": "7431"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\42f63c57b920edfb4918e4a181be704c\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,200,294,396,478,576,682,761,837,917,1015,1110,1205,1305,1401,1500,1652,1746",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "195,289,391,473,571,677,756,832,912,1010,1105,1200,1300,1396,1495,1647,1741,1819"
+                    },
+                    "to": {
+                        "startLines": "78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,116",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4699,4794,4888,4990,5072,5170,5276,5355,5431,5511,5609,5704,5799,5899,5995,6094,6246,9106",
+                        "endColumns": "94,93,101,81,97,105,78,75,79,97,94,94,99,95,98,151,93,77",
+                        "endOffsets": "4789,4883,4985,5067,5165,5271,5350,5426,5506,5604,5699,5794,5894,5990,6089,6241,6335,9179"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2fe9a376b4f90b984b41a6ad85b96143\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "117",
+                        "startColumns": "4",
+                        "startOffsets": "9184",
+                        "endColumns": "100",
+                        "endOffsets": "9280"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.0.1.aar\\584e8f91e3f9a8e50fecfbd405e0f9be\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,385,556,670,770,944,1059,1179,1383,1484,1651,1767,1944,2089,2174,2258",
+                        "endColumns": "101,170,113,99,173,114,119,203,100,166,115,176,144,84,83,99",
+                        "endOffsets": "384,555,669,769,943,1058,1178,1382,1483,1650,1766,1943,2088,2173,2257,2357"
+                    },
+                    "to": {
+                        "startLines": "95,96,97,98,99,100,101,103,104,105,106,107,108,109,110,111",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6340,6446,6617,6735,6839,7013,7132,7436,7640,7745,7912,8032,8209,8358,8447,8535",
+                        "endColumns": "105,170,117,103,173,118,123,203,104,166,119,176,148,88,87,103",
+                        "endOffsets": "6441,6612,6730,6834,7008,7127,7251,7635,7740,7907,8027,8204,8353,8442,8530,8634"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\android.joda-2.9.9.aar\\8725e955b2e9c41618f61d60d8b1b143\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,78,79,80,81",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,347,594,840,1087,1330,1578,1825,2073,2311,2549,2787,3022,3261,3501,3741,3976,4217,4458,4699,4765,4890,5015",
+                        "endLines": "5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,78,79,80,81",
+                        "endColumns": "14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,65,124,124,150",
+                        "endOffsets": "342,589,835,1082,1325,1573,1820,2068,2306,2544,2782,3017,3256,3496,3736,3971,4212,4453,4694,4760,4885,5010,5161"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,112,113,114,115",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,347,594,840,1087,1330,1578,1825,2073,2311,2549,2787,3022,3261,3501,3741,3976,4217,4458,8639,8705,8830,8955",
+                        "endLines": "5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,112,113,114,115",
+                        "endColumns": "14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,65,124,124,150",
+                        "endOffsets": "342,589,835,1082,1325,1573,1820,2068,2306,2544,2782,3017,3256,3496,3736,3971,4212,4453,4694,8700,8825,8950,9101"
+                    }
+                }
+            ]
+        }
+    ]
+}

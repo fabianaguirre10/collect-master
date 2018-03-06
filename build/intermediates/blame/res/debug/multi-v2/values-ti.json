@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ti\\values-ti.xml",
+            "map": [
+                {
+                    "source": "D:\\DesarrolloMovil\\collect-master\\collect_app\\src\\main\\res\\values-ti\\strings.xml",
+                    "from": {
+                        "startLines": "13,22,23,24,25,14,15,16,17,18,19,20,21",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "1058,1497,1545,1594,1643,1108,1157,1205,1254,1301,1350,1399,1448",
+                        "endColumns": "49,47,48,48,49,48,47,48,46,48,48,48,48",
+                        "endOffsets": "1105,1542,1591,1640,1690,1154,1202,1251,1298,1347,1396,1445,1494"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,157,208,259,311,362,412,463,512,563,614,665",
+                        "endColumns": "51,49,50,50,51,50,49,50,48,50,50,50,50",
+                        "endOffsets": "102,152,203,254,306,357,407,458,507,558,609,660,711"
+                    }
+                }
+            ]
+        }
+    ]
+}

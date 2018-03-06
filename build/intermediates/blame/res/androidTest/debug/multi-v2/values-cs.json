@@ -1,0 +1,113 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-cs\\values-cs.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.0.1.aar\\8acb42f68a227a9790a32f5d7c4b0b4d\\res\\values-cs\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "201",
+                        "endOffsets": "486"
+                    },
+                    "to": {
+                        "startLines": "102",
+                        "startColumns": "4",
+                        "startOffsets": "7643",
+                        "endColumns": "201",
+                        "endOffsets": "7840"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\zxing-android-embedded-3.5.0.aar\\7eb100c7c44fb1a339b0e63c858a9462\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,311",
+                        "endColumns": "58,46,149,83",
+                        "endOffsets": "109,156,306,390"
+                    },
+                    "to": {
+                        "startLines": "118,119,120,121",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "9888,9947,9994,10144",
+                        "endColumns": "58,46,149,83",
+                        "endOffsets": "9942,9989,10139,10223"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\42f63c57b920edfb4918e4a181be704c\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,314,423,509,614,731,812,893,977,1081,1190,1289,1395,1505,1612,1775,1873",
+                        "endColumns": "106,101,108,85,104,116,80,80,83,103,108,98,105,109,106,162,97,81",
+                        "endOffsets": "207,309,418,504,609,726,807,888,972,1076,1185,1284,1390,1500,1607,1770,1868,1950"
+                    },
+                    "to": {
+                        "startLines": "78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,116",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4865,4972,5074,5183,5269,5374,5491,5572,5653,5737,5841,5950,6049,6155,6265,6372,6535,9705",
+                        "endColumns": "106,101,108,85,104,116,80,80,83,103,108,98,105,109,106,162,97,81",
+                        "endOffsets": "4967,5069,5178,5264,5369,5486,5567,5648,5732,5836,5945,6044,6150,6260,6367,6530,6628,9782"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.0.1.aar\\584e8f91e3f9a8e50fecfbd405e0f9be\\res\\values-cs\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,387,579,702,810,1022,1147,1273,1507,1616,1811,1937,2157,2338,2432,2525",
+                        "endColumns": "103,191,122,107,211,124,125,233,108,194,125,219,180,93,92,110",
+                        "endOffsets": "386,578,701,809,1021,1146,1272,1506,1615,1810,1936,2156,2337,2431,2524,2635"
+                    },
+                    "to": {
+                        "startLines": "95,96,97,98,99,100,101,103,104,105,106,107,108,109,110,111",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6633,6741,6933,7060,7172,7384,7513,7845,8079,8192,8387,8517,8737,8922,9020,9117",
+                        "endColumns": "107,191,126,111,211,128,129,233,112,194,129,219,184,97,96,114",
+                        "endOffsets": "6736,6928,7055,7167,7379,7508,7638,8074,8187,8382,8512,8732,8917,9015,9112,9227"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\android.joda-2.9.9.aar\\8725e955b2e9c41618f61d60d8b1b143\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,78,79,80,81",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,354,611,865,1116,1368,1622,1881,2137,2380,2627,2873,3115,3364,3615,3865,4109,4356,4609,4865,4931,5060,5187",
+                        "endLines": "5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,78,79,80,81",
+                        "endColumns": "14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,65,128,126,150",
+                        "endOffsets": "349,606,860,1111,1363,1617,1876,2132,2375,2622,2868,3110,3359,3610,3860,4104,4351,4604,4860,4926,5055,5182,5333"
+                    },
+                    "to": {
+                        "startLines": "2,6,10,14,18,22,26,30,34,38,42,46,50,54,58,62,66,70,74,112,113,114,115",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,354,611,865,1116,1368,1622,1881,2137,2380,2627,2873,3115,3364,3615,3865,4109,4356,4609,9232,9298,9427,9554",
+                        "endLines": "5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,112,113,114,115",
+                        "endColumns": "14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,65,128,126,150",
+                        "endOffsets": "349,606,860,1111,1363,1617,1876,2132,2375,2622,2868,3110,3359,3610,3860,4104,4351,4604,4860,9293,9422,9549,9700"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Administrador1\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2fe9a376b4f90b984b41a6ad85b96143\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "117",
+                        "startColumns": "4",
+                        "startOffsets": "9787",
+                        "endColumns": "100",
+                        "endOffsets": "9883"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Feb 22 09:43:38 COT 2018
+1.base=D\:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=open_source_licenses.html
+0.set=ASSET
+0.base=D\:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\assets\\debug
+1.path=svg_map_helper.js

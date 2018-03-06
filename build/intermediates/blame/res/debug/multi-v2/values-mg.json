@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mg\\values-mg.xml",
+            "map": [
+                {
+                    "source": "D:\\DesarrolloMovil\\collect-master\\collect_app\\src\\main\\res\\values-mg\\strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "2,2",
+                        "startOffsets": "100,150",
+                        "endColumns": "49,58",
+                        "endOffsets": "147,206"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,60",
+                        "endOffsets": "102,163"
+                    }
+                }
+            ]
+        }
+    ]
+}

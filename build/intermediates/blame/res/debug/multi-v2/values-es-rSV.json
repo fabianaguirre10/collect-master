@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rSV\\values-es-rSV.xml",
+            "map": [
+                {
+                    "source": "D:\\DesarrolloMovil\\collect-master\\collect_app\\src\\main\\res\\values-es-rSV\\strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "53,215,268",
+                        "endColumns": "161,52,45",
+                        "endOffsets": "212,265,311"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,219,274",
+                        "endColumns": "163,54,47",
+                        "endOffsets": "214,269,317"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Thu Mar 01 13:14:44 COT 2018
+2.base=D\:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\assets\\debug
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=D\:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\transforms\\dexMerger\\debug\\75
+2.set=ASSET
+1.path=open_source_licenses.html
+4.base=D\:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\transforms\\dexMerger\\debug\\75
+count=5
+2.path=svg_map_helper.js
+4.set=DEX
+3.path=classes2.dex
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=classes3.dex
+1.baseType=DIRECTORY
+0.base=D\:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\transforms\\dexMerger\\debug\\75
+0.baseType=DIRECTORY
+3.set=DEX
+1.base=D\:\\DesarrolloMovil\\collect-master\\collect_app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=DEX
